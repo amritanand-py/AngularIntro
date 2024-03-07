@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularIntro';
+  message = 'This message is coming from App Component'
 }
